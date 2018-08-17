@@ -1,0 +1,208 @@
+body,
+html {
+    font-family: ubuntu, PingFangSC-regular, Helvetica Neue, Helvetica, Arial, Microsoft YaHei, Tahoma, sans-serif;
+    background-color: #f9f9f9;
+    font-size: 14px;
+    color: #333;
+}
+
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+mark,
+menu,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+q,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    font: inherit;
+    font-size: 100%;
+    line-height: 1.4em;
+}
+
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html {
+    font-family: "微软雅黑";
+    overflow-x: hidden;
+}
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+
+*,
+ :after,
+ :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+
+user agent stylesheet html {
+    display: block;
+}
+
+*,
+ :after,
+ :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+:after,
+ :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*,
+ :after,
+ :before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+}
+
+:after,
+ :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ex-page-signin {
+    background: #f9f9f9;
+}
+
+.ex-page-signin .form-box {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.ex-page-signin .form-box {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.ta-c {
+    text-align: center!important;
+}
+
+.d-flex {
+    display: -ms-flexbox!important;
+    display: -webkit-box!important;
+    display: flex!important;
+}
+
+.ta-c {
+    text-align: center !important;
+}
+
+.ex-page-signin .containerwrap {
+    padding-top: 180px;
+    position: absolute;
+}
